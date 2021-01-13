@@ -1,0 +1,7 @@
+Mirror in progress since Tue, 12 Jan 2021 04:32:32 .. please wait!
+httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/cryprointeligence -A25000k%Px%q0u1s2%s%u%fDaK0p3H0N0 http://hn.arrowpress.net/cryptcio/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=15792
+UID=10191
+GID=10191
+START=1610422352
